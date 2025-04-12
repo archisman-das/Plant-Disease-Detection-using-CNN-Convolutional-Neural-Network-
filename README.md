@@ -17,7 +17,7 @@ A deep learning-based web application that allows users to upload images of plan
 🚀 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (or React if applicable)
-- **Backend**: Flask / Django (Python)
+- **Backend**: Flask / MySql
 - **Machine Learning**: TensorFlow / Keras CNN model
 - **Dataset**: PlantVillage or custom collected dataset
 
