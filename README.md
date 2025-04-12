@@ -51,18 +51,3 @@ A deep learning-based web application that allows users to upload images of plan
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-
----------
-plant-disease-detection-cnn/
-│
-├── model/
-│   └── cnn_model.h5
-├── static/
-│   └── styles.css
-├── templates/
-│   ├── index.html
-│   └── result.html
-├── app.py
-├── requirements.txt
-└── README.md
-
