@@ -51,7 +51,6 @@ A deep learning-based web application that allows users to upload images of plan
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-Open your browser and go to [http://localhost:5000](http://127.0.0.1:5000)
 
 ---------
 plant-disease-detection-cnn/
